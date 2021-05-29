@@ -12,4 +12,4 @@ Este é um repositório do curso de CSS Grid da Alura onde criamos um modelo de 
 
 ### 📝 Licença
 
-Esse projeto está sob licença MIT. Veja o arquivo [LICENÇA](https://github.com/RuyArmando/alura-html5-css3/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob licença MIT. Veja o arquivo [LICENÇA](https://github.com/RuyArmando/alura-css-grid/blob/main/LICENSE) para mais detalhes.
